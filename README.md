@@ -1,5 +1,14 @@
-# Learning Clojure Scientific Computing
+# clj-sci
 
-- Explore Clojure's integration with scientific computing libraries
-- Explore performance of Clojure in the context of scientific computing
-- Explore the possibility of visualization
+A Clojure library designed to ... well, that part is up to you.
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2015 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
